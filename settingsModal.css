@@ -1,0 +1,36 @@
+.standardSidebarView-3F1I7i .contentRegion-3nDuYy {
+    background:rgba(0,0,0,0.4) !important;
+    border-top-right-radius:7px;
+    border-bottom-right-radius:7px;
+}
+.side-8zPYf6 {
+    margin-top:-35px !important;
+}
+.sidebarRegion-VFTUkN {
+    background:rgba(0,0,0,0.5) !important;
+    border-top-left-radius:7px;
+    border-bottom-left-radius:7px;
+}
+.header-2RyJ0Y {
+    font-weight:700;
+    color:#fff !important;
+    font-size:15px;
+}
+.layers-3iHuyZ {
+    align-items:center;
+    justify-content:center;
+}
+.layers-3iHuyZ > .layer-3QrUeG:first-child {
+    transform: none !important;
+}
+.layers-3iHuyZ > .layer-3QrUeG:nth-child(2) {
+    width: 57%;
+    height: 80%;
+    top:unset;
+    bottom:unset;
+    right:unset;
+    left:unset;
+    z-index:100;
+    transform: translateZ(0);
+    overflow:visible;
+}
