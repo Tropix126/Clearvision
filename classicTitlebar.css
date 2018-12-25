@@ -36,6 +36,7 @@ div[class*="winButton-"] {
 div[class*="winButton-"]:hover{
     transition: all .2s ease-in-out;
     opacity: 1;
+    background:transparent;
 }
 div[class*="titleBar-"] div:nth-of-type(2) {
 	background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;  
